@@ -18,3 +18,16 @@ com m unity.
 | Dhwani Navadia        | dhwaninavadia29@gmail.com     |
 | Sanskruti Kukadiya    | sanskrutikukadiya6@gmail.com  |
 | Urvi Patel            | urvipatel275@gmail.com        |
+
+## Project Demo Video Link
+
+- https://drive.google.com/file/d/1aCK4_Bk4a64h_luorqSa3I2nbQitqRz9/view?usp=sharing
+
+## Tech Stack 
+
+frontend - react.js
+backend - supabase, node.js, express.js
+authentication - JWT Token
+UI library - Shedcn and tailwind css
+
+## Images 
